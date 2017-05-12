@@ -1,0 +1,2 @@
+# KuliGaborBeadandoZske
+Beadandó feladat
