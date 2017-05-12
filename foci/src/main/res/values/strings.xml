@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Foci Meccsek</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="homeLabelText">Hazai csapat: </string>
+    <string name="awayLabelText">Vendég csapat: </string>
+    <string name="dateLabelText">Időpont: </string>
+</resources>
